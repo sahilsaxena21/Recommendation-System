@@ -1,6 +1,6 @@
 # Data Science Curriculum Design - A Data-Driven Approach
 
-The purpose of this project was to recommend a suitable, data-driven data science masters curriculum based on the needs of the industry.
+The purpose of this project was to recommend a suitable, data-driven data science masters curriculum.
 
 The following datasets were used in this analysis. Following which, text processing and data mining techniques were used to draw insights.
 
