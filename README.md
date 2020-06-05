@@ -1,5 +1,4 @@
-# Recommendation-System
-Data-Driven Data Science Masters Curriculum 
+# Data Science Curriculum Design - A Data-Driven Approach
 
 The purpose of this project was to recommend a suitable, data-driven data science masters curriculum based on the needs of the industry.
 
