@@ -1,5 +1,5 @@
 # Recommendation-System
-Recommendation System - The Ideal Data Science Masters Curriculum 
+Data-Driven Data Science Masters Curriculum 
 
 The purpose of this project was to recommend a suitable, data-driven data science masters curriculum based on the needs of the industry.
 
